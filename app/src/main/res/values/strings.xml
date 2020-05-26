@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Bitcoin</string>
+    <string name="last_request_name">Last Request:</string>
+    <string name="last_request">12-09-2019 19:07:06</string>
+    <string name="current_price_name">Current price:</string>
+    <string name="current_price">27014.25</string>
+    <string name="refresh_button">Refresh</string>
+    <string name="current_currency_name">Current currency:</string>
+    <string name="current_currency">USD</string>
+    <string name="daily_average_name">Daily average:</string>
+    <string name="daily_average">24892.12</string>
+    <string name="weekly_average_name">Weekly average:</string>
+    <string name="weekly_average">23125.52</string>
+    <string name="monthly_average_name">Monthly average:</string>
+    <string name="monthly_average">21144.99</string>
+    <string name="daily_percent_name">Daily percent change:</string>
+    <string name="daily_percent">+0.17%</string>
+    <string name="weekly_percent_name">Weekly percent change:</string>
+    <string name="weekly_percent">+2.14%</string>
+    <string name="monthly_percent_name">Monthly percent change:</string>
+    <string name="monthly_percent">-4.86%</string>
+
+    <string-array name="date_array">
+        <item>3m</item>
+        <item>1m</item>
+        <item>7d</item>
+        <item>24h</item>
+    </string-array>
+</resources>
+
