@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
     private RecyclerView mRecyclerView;
     private ExampleAdapter mAdapter;
     private RecyclerView.LayoutManager mLayoutManager;
-    private String price = "0";
+    private String Price = "0";
     private final ArrayList<ExampleItem> mExampleList = new ArrayList<>();
 
     @Override
